@@ -1,0 +1,324 @@
+[
+        {
+            "ID": 0,
+            "WordName": "Abandon",
+            "VietMeaning": "Bỏ",
+            "EnglishDescription": "To leave a place, thing, or person, usually for ever",
+            "VietDescription": "Ngừng thực hiện một hoạt động trước khi bạn hoàn thành nó"
+        },
+        {
+            "ID": 1,
+            "WordName": "Away",
+            "VietMeaning": "Xa",
+            "EnglishDescription": "At an opposing team's sports ground",
+            "VietDescription": "Tại sân thể thao của đội đối phương"
+        },
+        {
+            "ID": 2,
+            "WordName": "Bacteria",
+            "VietMeaning": "Vi khuẩn",
+            "EnglishDescription": "Very small organisms that are found everywhere and are the cause of many diseases",
+            "VietDescription": "Những sinh vật rất nhỏ được tìm thấy ở khắp mọi nơi và là nguyên nhân gây ra nhiều bệnh"
+        },
+        {
+            "ID": 3,
+            "WordName": "Burden",
+            "VietMeaning": "Gánh nặng",
+            "EnglishDescription": "Something difficult or unpleasant that you have to deal with or worry about",
+            "VietDescription": "Điều gì đó khó khăn hoặc khó chịu mà bạn phải giải quyết hoặc lo lắng"
+        },
+        {
+            "ID": 4,
+            "WordName": "Call",
+            "VietMeaning": "Gọi",
+            "EnglishDescription": "To ask someone to come to you",
+            "VietDescription": "Để yêu cầu ai đó đến với bạn"
+        },
+        {
+            "ID": 5,
+            "WordName": "Cutting-edge",
+            "VietMeaning": "Đỉnh cao",
+            "EnglishDescription": "Very modern and with all the newest features",
+            "VietDescription": "Rất hiện đại và có tất cả các tính năng mới nhất"
+        },
+        {
+            "ID": 6,
+            "WordName": "Dark",
+            "VietMeaning": "Khoảng tối tâm",
+            "EnglishDescription": "Sad and without hope",
+            "VietDescription": "Buồn và không có hy vọng"
+        },
+        {
+            "ID": 7,
+            "WordName": "Duration",
+            "VietMeaning": "Khoảng thời gian",
+            "EnglishDescription": "The length of time that something lasts",
+            "VietDescription": "Khoảng thời gian mà một cái gì đó kéo dài"
+        },
+        {
+            "ID": 8,
+            "WordName": "Easily",
+            "VietMeaning": "Dễ dàng",
+            "EnglishDescription": "Very likely to happen or be true",
+            "VietDescription": "Rất có thể xảy ra hoặc là sự thật"
+        },
+        {
+            "ID": 9,
+            "WordName": "Extrovert",
+            "VietMeaning": "Hướng ngoại",
+            "EnglishDescription": "An energetic person who enjoys being with other people",
+            "VietDescription": "Một người năng động, thích ở bên người khác"
+        },
+        {
+            "ID": 10,
+            "WordName": "Fabric",
+            "VietMeaning": "Vải vóc",
+            "EnglishDescription": "Cloth or material for making clothes, covering furniture, etc.",
+            "VietDescription": "Vải hoặc vật liệu để làm quần áo, bọc đồ nội thất, v.v."
+        },
+        {
+            "ID": 11,
+            "WordName": "Federal",
+            "VietMeaning": "Liên bang",
+            "EnglishDescription": "Relating to the central government, and not to the government of a region, of some countries such as the US",
+            "VietDescription": "Liên quan đến chính quyền trung ương chứ không phải chính quyền khu vực của một số quốc gia như Hoa Kỳ"
+        },
+        {
+            "ID": 12,
+            "WordName": "Furnished",
+            "VietMeaning": "Trang bị ",
+            "EnglishDescription": "Containing furniture or containing furniture of a particular type",
+            "VietDescription": "Chứa đồ nội thất hoặc chứa đồ nội thất thuộc một loại cụ thể"
+        },
+        {
+            "ID": 13,
+            "WordName": "Gadget",
+            "VietMeaning": "Tiện íc",
+            "EnglishDescription": "A small device or machine with a particular purpose",
+            "VietDescription": "Một thiết bị hoặc máy nhỏ với một mục đích cụ thể"
+        },
+        {
+            "ID": 14,
+            "WordName": "Guideline",
+            "VietMeaning": "Hướng dẫn",
+            "EnglishDescription": "Information intended to advise people on how something should be done or what something should be",
+            "VietDescription": "Thông tin nhằm khuyên mọi người về cách thực hiện một việc gì đó hoặc việc gì đó nên là"
+        },
+        {
+            "ID": 15,
+            "WordName": "Habitat",
+            "VietMeaning": "Môi trường sống",
+            "EnglishDescription": "The natural environment in which an animal or plant usually lives",
+            "VietDescription": "Môi trường tự nhiên nơi động vật hoặc thực vật thường sống"
+        },
+        {
+            "ID": 16,
+            "WordName": "Hygiene",
+            "VietMeaning": "Vệ sinh",
+            "EnglishDescription": "The degree to which people keep themselves or their environment clean, especially to prevent disease",
+            "VietDescription": "Mức độ mà mọi người giữ cho bản thân hoặc môi trường của họ sạch sẽ, đặc biệt là để ngăn ngừa bệnh tật"
+        },
+        {
+            "ID": 17,
+            "WordName": "Iceberg",
+            "VietMeaning": "Tảng băng trội",
+            "EnglishDescription": "A very large mass of ice that floats in the sea",
+            "VietDescription": "Một khối băng rất lớn trôi nổi trên biển"
+        },
+        {
+            "ID": 18,
+            "WordName": "Isolation",
+            "VietMeaning": "Sự cách li",
+            "EnglishDescription": "The condition of being alone, especially when this makes you feel unhappy",
+            "VietDescription": "Tình trạng ở một mình, đặc biệt khi điều này khiến bạn cảm thấy không vui"
+        },
+        {
+            "ID": 19,
+            "WordName": "Jam",
+            "VietMeaning": "Kẹt",
+            "EnglishDescription": "Something that is stuck in a machine, or that prevents the parts of a machine from moving",
+            "VietDescription": "Vật gì đó bị kẹt trong máy hoặc ngăn cản các bộ phận của máy chuyển động"
+        },
+        {
+            "ID": 20,
+            "WordName": "uvenile",
+            "VietMeaning": "Vị thành niên ",
+            "EnglishDescription": "Relating to a young person who is not yet old enough to be considered an adult",
+            "VietDescription": "Liên quan đến một người trẻ chưa đủ tuổi để được coi là người lớn"
+        },
+        {
+            "ID": 21,
+            "WordName": "Keen",
+            "VietMeaning": "Nhạy bén",
+            "EnglishDescription": "Very good or well developed",
+            "VietDescription": "Rất tốt hoặc phát triển tốt"
+        },
+        {
+            "ID": 22,
+            "WordName": "Knowledgeable",
+            "VietMeaning": "Có kiến thức",
+            "EnglishDescription": "Knowing a lot",
+            "VietDescription": "Biết rất nhiều"
+        },
+        {
+            "ID": 23,
+            "WordName": "Label",
+            "VietMeaning": "Dán nhãn hiệu",
+            "EnglishDescription": "To fasten a label to",
+            "VietDescription": "Để gắn nhãn vào"
+        },
+        {
+            "ID": 24,
+            "WordName": "Luxury",
+            "VietMeaning": "Xa xỉ",
+            "EnglishDescription": "Something expensive that is pleasant to have but is not necessary",
+            "VietDescription": "Một cái gì đó đắt tiền, dễ chịu nhưng không cần thiết"
+        },
+        {
+            "ID": 25,
+            "WordName": "Machinery",
+            "VietMeaning": "Máy móc",
+            "EnglishDescription": "A group of large machines or the parts of a machine that make it work",
+            "VietDescription": "Một nhóm máy móc lớn hoặc các bộ phận của máy làm cho nó hoạt động"
+        },
+        {
+            "ID": 26,
+            "WordName": "Myth",
+            "VietMeaning": "Chuyện huyền thoại",
+            "EnglishDescription": "A commonly believed but false idea",
+            "VietDescription": "Một ý tưởng thường được tin tưởng nhưng sai lầm"
+        },
+        {
+            "ID": 27,
+            "WordName": "Naive",
+            "VietMeaning": "Ngây thơ",
+            "EnglishDescription": "Lacking knowledge, experience of life, or good judgment, and willing to believe that people always tell you the truth",
+            "VietDescription": "Thiếu kiến ​​thức, kinh nghiệm sống hoặc khả năng phán đoán tốt và sẵn sàng tin rằng mọi người luôn nói với bạn sự thật"
+        },
+        {
+            "ID": 28,
+            "WordName": "Nutritious",
+            "VietMeaning": "Bổ dưỡng",
+            "EnglishDescription": "Containing many of the substances needed for life and growth",
+            "VietDescription": "Chứa nhiều chất cần thiết cho sự sống và tăng trưởng"
+        },
+        {
+            "ID": 29,
+            "WordName": "Obese",
+            "VietMeaning": "Béo phì",
+            "EnglishDescription": "Extremely fat in a way that is dangerous for health",
+            "VietDescription": "Cực kỳ béo đến mức nguy hiểm cho sức khỏe"
+        },
+        {
+            "ID": 30,
+            "WordName": "Ozone",
+            "VietMeaning": "Khí quyển",
+            "EnglishDescription": "A poisonous form of oxygen",
+            "VietDescription": "Một dạng oxy độc hại"
+        },
+        {
+            "ID": 31,
+            "WordName": "Palm",
+            "VietMeaning": "Cây cọ",
+            "EnglishDescription": "A tree that grows in hot countries and has a tall trunk with a mass of long pointed leaves at the top",
+            "VietDescription": "Một loại cây mọc ở những nước có khí hậu nóng và có thân cao với nhiều lá dài nhọn ở trên đỉnh"
+        },
+        {
+            "ID": 32,
+            "WordName": "Pyramid",
+            "VietMeaning": "Kim tự tháp",
+            "EnglishDescription": "A solid object with a square base and four triangular sides that form a point at the top",
+            "VietDescription": "Một vật thể rắn có đáy hình vuông và bốn cạnh hình tam giác tạo thành một điểm ở trên cùng"
+        },
+        {
+            "ID": 33,
+            "WordName": "Qualification",
+            "VietMeaning": "Khả năng",
+            "EnglishDescription": "Success in getting into a competition",
+            "VietDescription": "Thành công khi tham gia một cuộc thi"
+        },
+        {
+            "ID": 34,
+            "WordName": "Quote",
+            "VietMeaning": "Trích dẫn",
+            "EnglishDescription": "To repeat the words that someone else has said or written",
+            "VietDescription": "Để lặp lại những lời mà người khác đã nói hoặc viết"
+        },
+        {
+            "ID": 35,
+            "WordName": "Race  ",
+            "VietMeaning": "Chạy đua",
+            "EnglishDescription": "An attempt to be the first to do or to get something",
+            "VietDescription": "Nỗ lực trở thành người đầu tiên làm hoặc đạt được điều gì đó"
+        },
+        {
+            "ID": 36,
+            "WordName": "Rudely",
+            "VietMeaning": "Thô lỗ",
+            "EnglishDescription": "In an impolite manner",
+            "VietDescription": "Một cách mất lịch sự"
+        },
+        {
+            "ID": 37,
+            "WordName": "Saving",
+            "VietMeaning": "Phần dành dụm",
+            "EnglishDescription": "Recovery or preservation from loss or danger",
+            "VietDescription": "Phục hồi hoặc bảo vệ khỏi mất mát hoặc nguy hiểm"
+        },
+        {
+            "ID": 38,
+            "WordName": "Specifically",
+            "VietMeaning": "Đặc biệt",
+            "EnglishDescription": "In distinction from others",
+            "VietDescription": "Phân biệt với những người khác"
+        },
+        {
+            "ID": 39,
+            "WordName": "Tank",
+            "VietMeaning": "Xe tăng",
+            "EnglishDescription": "A large vessel for holding gases or liquids",
+            "VietDescription": "Một tàu lớn để chứa khí hoặc chất lỏng"
+        },
+        {
+            "ID": 40,
+            "WordName": "Twist",
+            "VietMeaning": "Uốn cong",
+            "EnglishDescription": "Cause an object to assume a curved or distorted shape",
+            "VietDescription": "Làm cho vật thể có hình dạng cong hoặc méo mó"
+        },
+        {
+            "ID": 41,
+            "WordName": "Ultimately",
+            "VietMeaning": "Cuối cùng",
+            "EnglishDescription": "As the end result of a succession or process",
+            "VietDescription": "Là kết quả cuối cùng của một sự kế thừa hoặc quá trình"
+        },
+        {
+            "ID": 42,
+            "WordName": "Upwards",
+            "VietMeaning": "Ở trên",
+            "EnglishDescription": "Spatially or metaphorically from a lower to a higher position",
+            "VietDescription": "Về mặt không gian hoặc ẩn dụ từ vị trí thấp hơn đến vị trí cao hơn"
+        },
+        {
+            "ID": 43,
+            "WordName": "Vertical",
+            "VietMeaning": "Thẳng đứng",
+            "EnglishDescription": "At right angles to the plane of the horizon or a base line",
+            "VietDescription": "Vuông góc với mặt phẳng đường chân trời hoặc đường cơ sở"
+        },
+        {
+            "ID": 44,
+            "WordName": "Withdraw",
+            "VietMeaning": "Rút lại",
+            "EnglishDescription": "Pull back or move away or backward",
+            "VietDescription": "Kéo lại hoặc di chuyển đi hoặc lùi lại"
+        },
+        {
+            "ID": 45,
+            "WordName": "Worship",
+            "VietMeaning": "Tôn thờ",
+            "EnglishDescription": "The activity of cherishing as divine",
+            "VietDescription": "Hoạt động trân trọng như thiêng liêng"
+        }
+]

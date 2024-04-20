@@ -1,0 +1,345 @@
+[
+        {
+            "ID": 0,
+            "WordName": "Ability",
+            "VietMeaning": "Khả năng",
+            "EnglishDescription": "The fact that somebody/something is able to do something",
+            "VietDescription": "Thực tế là ai đó/cái gì đó có thể làm được điều gì đó"
+        },
+        {
+            "ID": 1,
+            "WordName": "Awful",
+            "VietMeaning": "Tồi tệ",
+            "EnglishDescription": "Very bad or unpleasant",
+            "VietDescription": "Rất tệ hoặc khó chịu"
+        },
+        {
+            "ID": 2,
+            "WordName": "Background",
+            "VietMeaning": "Lý lịch",
+            "EnglishDescription": "The details of a person’s family, education, experience, etc.",
+            "VietDescription": "Chi tiết về gia đình, học vấn, kinh nghiệm của một người, v.v."
+        },
+        {
+            "ID": 3,
+            "WordName": "Button",
+            "VietMeaning": "Cái nút",
+            "EnglishDescription": "A small round piece of metal, plastic, etc. That is sewn onto a piece of clothing and used for fastening two parts togethe",
+            "VietDescription": "Một mảnh tròn nhỏ bằng kim loại, nhựa, v.v. Được khâu vào một mảnh quần áo và dùng để buộc hai phần lại với nhau"
+        },
+        {
+            "ID": 4,
+            "WordName": "Camp",
+            "VietMeaning": "Cái lều",
+            "EnglishDescription": "A place where people live temporarily in tents or temporary buildings",
+            "VietDescription": "Nơi mọi người sống tạm thời trong lều hoặc tòa nhà tạm thời"
+        },
+        {
+            "ID": 5,
+            "WordName": "Cycle",
+            "VietMeaning": "Đi bằng xe đạp",
+            "EnglishDescription": "To ride a bicycle; to travel by bicycle",
+            "VietDescription": "Đi xe đạp; đi du lịch bằng xe đạp"
+        },
+        {
+            "ID": 6,
+            "WordName": "Daily",
+            "VietMeaning": "Hằng ngày",
+            "EnglishDescription": "Happening, done or produced every day",
+            "VietDescription": "Xảy ra, thực hiện hoặc sản xuất mỗi ngày"
+        },
+        {
+            "ID": 7,
+            "WordName": "Drug",
+            "VietMeaning": "Ma túy",
+            "EnglishDescription": "An illegal substance that some people smoke, inject, etc. For the physical and mental effects it has",
+            "VietDescription": "Một chất bất hợp pháp mà một số người hút, tiêm, v.v. Vì những ảnh hưởng về thể chất và tinh thần mà nó gây ra"
+        },
+        {
+            "ID": 8,
+            "WordName": "Earn",
+            "VietMeaning": "Kiếm",
+            "EnglishDescription": "To receive money as payment for work that you do",
+            "VietDescription": "Để nhận tiền như một khoản thanh toán cho công việc bạn làm"
+        },
+        {
+            "ID": 9,
+            "WordName": "Extremely",
+            "VietMeaning": "Vô cùng",
+            "EnglishDescription": "To a very high degree",
+            "VietDescription": "Ở mức độ rất cao"
+        },
+        {
+            "ID": 10,
+            "WordName": "Factor",
+            "VietMeaning": "Nhân tố",
+            "EnglishDescription": "One of several things that cause or influence something",
+            "VietDescription": "Một trong nhiều điều gây ra hoặc ảnh hưởng đến một cái gì đó"
+        },
+        {
+            "ID": 11,
+            "WordName": "Fun",
+            "VietMeaning": "Vui vẻ",
+            "EnglishDescription": "Giving pleasure, especially because of being not at all serious",
+            "VietDescription": "Mang lại niềm vui, đặc biệt là vì không hề nghiêm túc"
+        },
+        {
+            "ID": 12,
+            "WordName": "Gallery",
+            "VietMeaning": "Phòng trưng bày",
+            "EnglishDescription": "A room or building for showing works of art, especially to the public",
+            "VietDescription": "Một căn phòng hoặc tòa nhà để trưng bày tác phẩm nghệ thuật, đặc biệt là cho công chúng"
+        },
+        {
+            "ID": 13,
+            "WordName": "Guy",
+            "VietMeaning": "Chàng trai",
+            "EnglishDescription": "A man",
+            "VietDescription": "Một người đàn ông"
+        },
+        {
+            "ID": 14,
+            "WordName": "Half",
+            "VietMeaning": "Một nửa",
+            "EnglishDescription": "To the extent of half",
+            "VietDescription": "Đến mức một nửa"
+        },
+        {
+            "ID": 15,
+            "WordName": "Hurt",
+            "VietMeaning": "Đau",
+            "EnglishDescription": "To cause physical pain to somebody/yourself; to injure somebody/yourself",
+            "VietDescription": "Gây đau đớn về thể xác cho ai đó/chính bạn; làm tổn thương ai/chính mình"
+        },
+        {
+            "ID": 16,
+            "WordName": "Ideal",
+            "VietMeaning": "Lý tưởng",
+            "EnglishDescription": "Perfect; most suitable",
+            "VietDescription": "Hoàn hảo; phù hợp nhất"
+        },
+        {
+            "ID": 17,
+            "WordName": "Item",
+            "VietMeaning": "Mục",
+            "EnglishDescription": "One thing on a list of things to buy, do, talk about, etc.",
+            "VietDescription": "Một thứ trong danh sách những thứ cần mua, làm, nói, v.v."
+        },
+        {
+            "ID": 18,
+            "WordName": "Jam",
+            "VietMeaning": "Mứt",
+            "EnglishDescription": "A thick sweet substance made by boiling fruit with sugar, often sold in jars and spread on bread",
+            "VietDescription": "Một chất ngọt đặc được làm bằng cách đun sôi trái cây với đường, thường được bán trong lọ và phết lên bánh m"
+        },
+        {
+            "ID": 19,
+            "WordName": "Jump",
+            "VietMeaning": "Nhảy",
+            "EnglishDescription": "To move quickly off the ground or away from a surface by pushing yourself with your legs and feet",
+            "VietDescription": "Di chuyển nhanh chóng khỏi mặt đất hoặc ra khỏi bề mặt bằng cách đẩy mình bằng chân và bàn chân"
+        },
+        {
+            "ID": 20,
+            "WordName": "Kill",
+            "VietMeaning": "Giết",
+            "EnglishDescription": "To make somebody/something die",
+            "VietDescription": "Làm ai đó/cái gì đó gì đó chết"
+        },
+        {
+            "ID": 21,
+            "WordName": "Knock",
+            "VietMeaning": "Gõ cửa",
+            "EnglishDescription": "To hit a door, etc. In order to attract attention",
+            "VietDescription": "Đánh vào một cánh cửa, v.v. Để thu hút sự chú ý"
+        },
+        {
+            "ID": 22,
+            "WordName": "Lab",
+            "VietMeaning": "Phòng thí nghiệm",
+            "EnglishDescription": "A laboratory",
+            "VietDescription": "Phòng thí nghiệm"
+        },
+        {
+            "ID": 23,
+            "WordName": "Lucky",
+            "VietMeaning": "May mắn",
+            "EnglishDescription": "Having good luck",
+            "VietDescription": "Chúc may mắn"
+        },
+        {
+            "ID": 24,
+            "WordName": "Mail",
+            "VietMeaning": "Bưu điện",
+            "EnglishDescription": "The official system used for sending and delivering letters, packages, etc.",
+            "VietDescription": "Hệ thống chính thức được sử dụng để gửi và chuyển thư, gói hàng, v.v."
+        },
+        {
+            "ID": 25,
+            "WordName": "Myself",
+            "VietMeaning": "Bản thân tôi",
+            "EnglishDescription": "Used when the speaker or writer is also the person affected by an action",
+            "VietDescription": "Được sử dụng khi người nói hoặc người viết cũng là người bị ảnh hưởng bởi một hành động"
+        },
+        {
+            "ID": 26,
+            "WordName": "Narrow",
+            "VietMeaning": "Chật hẹp",
+            "EnglishDescription": "Measuring a short distance from one side to the other, especially in relation to length",
+            "VietDescription": "Đo khoảng cách ngắn từ bên này sang bên kia, đặc biệt là liên quan đến chiều dài"
+        },
+        {
+            "ID": 27,
+            "WordName": "Nut",
+            "VietMeaning": "Hạt",
+            "EnglishDescription": "A small hard fruit with a very hard shell that grows on some trees",
+            "VietDescription": "Một loại quả nhỏ cứng có vỏ rất cứng mọc trên một số cây"
+        },
+        {
+            "ID": 28,
+            "WordName": "Ocean",
+            "VietMeaning": "Dại dương",
+            "EnglishDescription": "The mass of salt water that covers most of the earth’s surface",
+            "VietDescription": "Hối lượng nước mặn bao phủ phần lớn bề mặt trái đất"
+        },
+        {
+            "ID": 29,
+            "WordName": "Owner",
+            "VietMeaning": "Người sở hữu",
+            "EnglishDescription": "A person who owns something",
+            "VietDescription": "Một người sở hữu một cái gì đó"
+        },
+        {
+            "ID": 30,
+            "WordName": "Pack",
+            "VietMeaning": "Đóng gói",
+            "EnglishDescription": "To put clothes, etc. Into a bag in preparation for a trip away from home",
+            "VietDescription": "Bỏ quần áo, v.v. Vào túi để chuẩn bị cho chuyến đi xa nhà"
+        },
+        {
+            "ID": 31,
+            "WordName": "Push",
+            "VietMeaning": "Đẩy",
+            "EnglishDescription": "To use your hands, arms or body in order to make somebody/something move forward or away from you; to move part of your body into a particular position",
+            "VietDescription": "Sử dụng bàn tay, cánh tay hoặc cơ thể của bạn để khiến ai đó/thứ gì đó tiến về phía trước hoặc tránh xa bạn; để di chuyển một phần cơ thể của bạn vào một vị trí cụ thể"
+        },
+        {
+            "ID": 32,
+            "WordName": "Quality",
+            "VietMeaning": "Chất lượng",
+            "EnglishDescription": "The standard of something when it is compared to other things like it; how good or bad something is",
+            "VietDescription": "Tiêu chuẩn của một thứ gì đó khi nó được so sánh với những thứ khác giống nó; cái gì đó tốt hay xấu như thế nào"
+        },
+        {
+            "ID": 33,
+            "WordName": "Quietly",
+            "VietMeaning": "Một cách lặng lẽ",
+            "EnglishDescription": "In a way that makes very little noise",
+            "VietDescription": "Theo cách tạo ra rất ít tiếng ồn"
+        },
+        {
+            "ID": 34,
+            "WordName": "Race",
+            "VietMeaning": "Cuộc đua",
+            "EnglishDescription": "A competition between people, animals, vehicles, etc. To see which one is the faster or fastest",
+            "VietDescription": "Một cuộc cạnh tranh giữa con người, động vật, xe cộ, v.v. Để xem con nào nhanh hơn hoặc nhanh nhất"
+        },
+        {
+            "ID": 35,
+            "WordName": "Rude",
+            "VietMeaning": "Bất lịch sự",
+            "EnglishDescription": "Having or showing a lack of respect for other people and their feelings",
+            "VietDescription": "Có hoặc thể hiện sự thiếu tôn trọng người khác và cảm xúc của họ"
+        },
+        {
+            "ID": 36,
+            "WordName": "Safe",
+            "VietMeaning": "An toàn",
+            "EnglishDescription": "Protected",
+            "VietDescription": "Được bảo vệ"
+        },
+        {
+            "ID": 37,
+            "WordName": "System",
+            "VietMeaning": "Hệ thống",
+            "EnglishDescription": "An organized set of ideas or theories or a particular way of doing something",
+            "VietDescription": "Một tập hợp có tổ chức các ý tưởng hoặc lý thuyết hoặc một cách cụ thể để làm điều gì đó"
+        },
+        {
+            "ID": 38,
+            "WordName": "Tablet",
+            "VietMeaning": "Máy tính bảng",
+            "EnglishDescription": "A small computer that is easy to carry, with a large touch screen and usually without a physical keyboard",
+            "VietDescription": "Một máy tính nhỏ dễ mang theo, có màn hình cảm ứng lớn và thường không có bàn phím vật lý"
+        },
+        {
+            "ID": 39,
+            "WordName": "Typical",
+            "VietMeaning": "Đặc trưng",
+            "EnglishDescription": "Having the usual qualities or features of a particular type of person, thing or group",
+            "VietDescription": "Có những phẩm chất hoặc đặc điểm thông thường của một loại người, vật hoặc nhóm cụ thể"
+        },
+        {
+            "ID": 40,
+            "WordName": "Unhappy",
+            "VietMeaning": "Không vui",
+            "EnglishDescription": "Not happy; sad",
+            "VietDescription": "Không vui; buồn"
+        },
+        {
+            "ID": 41,
+            "WordName": "User",
+            "VietMeaning": "Người dùng",
+            "EnglishDescription": "A person or thing that uses something",
+            "VietDescription": "Một người hoặc vật sử dụng một cái gì đó"
+        },
+        {
+            "ID": 42,
+            "WordName": "Valley",
+            "VietMeaning": "Thung lũng",
+            "EnglishDescription": "An area of low land between hills or mountains, often with a river flowing through it; the land that a river flows through",
+            "VietDescription": "Vùng đất thấp giữa đồi núi, thường có sông chảy qua; vùng đất có con sông chảy qua"
+        },
+        {
+            "ID": 43,
+            "WordName": "Void",
+            "VietMeaning": "Âm thanh",
+            "EnglishDescription": "The sound or sounds produced through the mouth by a person speaking or singing",
+            "VietDescription": "Âm thanh hoặc âm thanh được tạo ra qua miệng bởi một người nói hoặc hát"
+        },
+        {
+            "ID": 44,
+            "WordName": "War",
+            "VietMeaning": "Chiến tranh",
+            "EnglishDescription": "A situation in which two or more countries or groups of people fight against each other over a period of time",
+            "VietDescription": "Một tình huống trong đó hai hoặc nhiều quốc gia hoặc nhóm người chiến đấu chống lại nhau trong một khoảng thời gian"
+        },
+        {
+            "ID": 45,
+            "WordName": "Wow",
+            "VietMeaning": "Ồ",
+            "EnglishDescription": "Used to show that you are very surprised or impressed by somebody/something",
+            "VietDescription": "Dùng để thể hiện rằng bạn rất ngạc nhiên hoặc ấn tượng với ai/cái gì"
+        },
+        {
+            "ID": 46,
+            "WordName": "Yet",
+            "VietMeaning": "Chưa",
+            "EnglishDescription": "Used in negative sentences and questions to talk about something that has not happened but that you expect to happen",
+            "VietDescription": "Dùng trong câu phủ định và câu hỏi để nói về điều gì đó chưa xảy ra nhưng bạn mong đợi sẽ xảy ra"
+        },
+        {
+            "ID": 47,
+            "WordName": "Yours",
+            "VietMeaning": "Của bạn",
+            "EnglishDescription": "Of or belonging to you",
+            "VietDescription": "Của hoặc thuộc về bạn"
+        },
+        {
+            "ID": 48,
+            "WordName": "Zero",
+            "VietMeaning": "Số không",
+            "EnglishDescription": "(the number) 0; nothing",
+            "VietDescription": "(số) 0; không có gì"
+        }
+]
