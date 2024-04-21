@@ -23,7 +23,7 @@ public class ShowGeneratedWordList : MonoBehaviour
             item.transform.GetChild(2).GetComponent<TextMeshProUGUI>().text = englishWord.VietMeaning;
             item.GetComponent<LoadHyperLinkForWordListPanel>().url = englishWord.TranslationSource;
             item.transform.SetParent(scrollViewContent);
-            item.transform.localScale = Vector2.one;
+            //item.transform.localScale = Vector2.one;
         }
     }
 }

@@ -13,7 +13,7 @@ public class BattleUIManager : MonoBehaviour
     //Uppercontrol panel
     public TextMeshProUGUI scoreText;
 
-    //Store character info
+    //Store character info for showing
     private Character _player;
     private Character _enemy;
 

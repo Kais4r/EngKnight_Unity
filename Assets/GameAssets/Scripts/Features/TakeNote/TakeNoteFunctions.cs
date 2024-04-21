@@ -9,6 +9,7 @@ public class TakeNoteFunctions : MonoBehaviour
     
     public void saveNoteContent()
     {
+        GameManagerSingleton.instance.noteContent = _inputField.text;
         filePath = Path.Combine(Application.persistentDataPath, "NoteContent.txt");
         File.WriteAllText(filePath, _inputField.text);
     }
